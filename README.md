@@ -1,3 +1,15 @@
 # Monomath font
 Official font for OChameleon.
-Modified version of **Monocode-Light** with following improvements:
+Improved version of **Monocode-Light**.
+
+## Modified
+Product               ∏
+Coproduct             ∐
+Medium vertical bar   ❙
+Rule delayed          ⧴
+
+
+# Inserted
+N-ary Squared Intersection ⨅
+N-ary Squared Union        ⨆
+Latin Cross                ✝
