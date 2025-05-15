@@ -2,7 +2,7 @@
 Official font for OChameleon.
 Improved version of **Monocode-Light**.
 
-Corrected up to Ý
+Corrected up to ſ
 
 ## Modified
 Equals Sign                             =
