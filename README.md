@@ -2,6 +2,8 @@
 Official font for OChameleon.
 Improved version of **Monocode-Light**.
 
+Corrected up to Ý
+
 ## Modified
 Equals Sign                             =
 Approaches The Limit                    ≐
@@ -23,6 +25,7 @@ Questioned Equal To                     ≟
 Product                                 ∏
 Coproduct                               ∐
 
+Broken Bar                              ¦
 Medium vertical bar                     ❙
 
 Rule delayed                            ⧴
