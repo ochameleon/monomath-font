@@ -13,13 +13,8 @@ Coproduct                               ∐
 Broken Bar                              ¦
 Medium vertical bar                     ❙
 
-Rule delayed                            ⧴
-Rightwards Arrow                        →
-Leftwards Arrow                         ←
-Rightwards Two Headed Arrow             ↠
-Leftwards Two Headed Arrow              ↞
-Multimap                                ⊸
-Left Multimap                           ⟜
+Order Relations
+Arrows
 
 # Inserted
 N-ary Squared Intersection              ⨅
