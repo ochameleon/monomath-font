@@ -13,6 +13,8 @@ Coproduct                               ∐
 Broken Bar                              ¦
 Medium vertical bar                     ❙
 
+Z Notation Type Colon                   ⦂
+
 Order Relations
 Arrows
 
@@ -24,3 +26,9 @@ Rightwards Arrow Tail                   ⤚
 Leftwards Arrow Tail                    ⤙
 Rightwards Double Arrow From Bar        ⤇
 Leftwards Double Arrow From Bar         ⤆
+White Vertical Bar                      ⫾
+N-Ary White Vertical Bar                ⫿
+
+# Removed
+Z notation schema composition:          ⨟
+Z notation relational composition:      ⨾
