@@ -14,6 +14,7 @@ Coproduct                               ∐
 Broken Bar                              ¦
 Medium vertical bar                     ❙
 
+Z Notation Spot                         ⦁
 Z Notation Type Colon                   ⦂
 
 Order Relations
