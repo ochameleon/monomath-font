@@ -7,6 +7,7 @@ Corrected up to ſ
 ## Modified
 Too many to list all of them, only major changes reported
 
+Latin Capital Letter U                  U
 Latin Small Letter U                    u
 Product                                 ∏
 Coproduct                               ∐
