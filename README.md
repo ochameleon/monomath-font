@@ -2,11 +2,12 @@
 Official font for OChameleon.
 Improved version of **Monocode-Light**.
 
-Corrected up to ſ
+Corrected up to ſ, errors with composed glyphs
 
 ## Modified
 Too many to list all of them, only major changes reported
 
+Latin Small Letter L                    l
 Latin Capital Letter U                  U
 Latin Small Letter U                    u
 Product                                 ∏
