@@ -7,6 +7,9 @@ Corrected up to ſ, errors with composed glyphs
 ## Modified
 Too many to list all of them, only major changes reported
 
+Horizontal and Vertical, Single and Double, Monodirectional and Bidirectional, Short and Long, Arrow have an increased angle point of 39points.
+Also until ↮
+
 Latin Small Letter L                    l
 Latin Capital Letter U                  U
 Latin Small Letter U                    u
