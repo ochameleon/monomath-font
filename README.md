@@ -35,6 +35,7 @@ Rightwards Double Arrow From Bar        ⤇
 Leftwards Double Arrow From Bar         ⤆
 White Vertical Bar                      ⫾
 N-Ary White Vertical Bar                ⫿
+Double Stacked Comma                    ⹉
 
 # Removed
 Z notation schema composition:          ⨟
